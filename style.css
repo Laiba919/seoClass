@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    Padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header .main{
+    height: 100vh;
+    background: linear-gradient(to right, rgba(0,0,0,0.7), rgba(0,0,0,0.4)), url('https://i0.wp.com/fitzrovianews.com/wp-content/uploads/2023/04/bus-stop-stephen-street-tottenham-court-road-2000px.jpg?resize=780%2C520&ssl=1'); 
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    width: 200px;
+    
+}
+p{
+    color: white;
+    font-size: 20px;
+}
